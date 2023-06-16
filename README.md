@@ -9,21 +9,21 @@ Analyzing an nginx log file using python and streamlit.
    3. Pie chart - Which is used the display the activity count of the ip addresses.
 
 **Installation process:**
-1. Download the csv file from the main or use your own file and open it in any environment that supports python
-2. Download the "loganalysis_streamlit.py" and open it
+1. Download the csv file from the main or use your own file and open it in any environment that supports python.
+2. Download the "loganalysis_streamlit.py" and open it.
 3. Download streamlit using:
  1. pip install streamlit (make sure that pip is already installed)
 4. Download pandas using:
  1. pip install pandas 
 5. Download plotly using:
  1. pip install plotly
-7. If you are using a different a file, go replace it in the line #23
+7. If you are using a different a file, go replace it in the line #23.
 8. Adjust your column and row vaules accordingly and execute the file.
  
  **Benefits**
-1. Going through a log file in it's raw form is a long task
-2. Using this program, user can view the data in a more oragainzed form, which is easier to go through
-3. User can filter the specific data that is needed, this feature saves a lot of time
+1. Going through a log file in it's raw form is a long task.
+2. Using this program, user can view the data in a more oragainzed form, which is easier to go through.
+3. User can filter the specific data that is needed, this feature saves a lot of time.
 4. Displaying the log data in this interactive form also helps the people to understand things easier.
 
 **Documentation**
