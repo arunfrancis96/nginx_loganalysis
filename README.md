@@ -28,10 +28,10 @@ Analyzing an nginx log file using python and streamlit.
 
 **Documentation**
 These are some websites that helped me write this program:
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
-https://www.computerhope.com/htmcolor.htm
-https://www.youtube.com/playlist?list=PLM8lYG2MzHmRpyrk9_j9FW0HiMwD9jSl5
-https://www.youtube.com/watch?v=9gm03GMgXbE&ab_channel=ShaunitaNicole
-https://plotly.com/python/table/
+1. https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+2. https://www.computerhope.com/htmcolor.htm
+3. https://www.youtube.com/playlist?list=PLM8lYG2MzHmRpyrk9_j9FW0HiMwD9jSl5
+4. https://www.youtube.com/watch?v=9gm03GMgXbE&ab_channel=ShaunitaNicole
+5. https://plotly.com/python/table/
 
 I hope you find these information helpful, thank you very much.
