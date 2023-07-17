@@ -26,6 +26,8 @@ Analyzing an nginx log file using python and streamlit.
 3. User can filter the specific data that is needed, this feature saves a lot of time.
 4. Displaying the log data in this interactive form also helps the people to understand things easier.
 
+   ![Alt text](/nginx_loganalysis_output.png?raw=true "Output screenshot")
+
 **Documentation**
 These are some websites that helped me write this program:
 1. https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
