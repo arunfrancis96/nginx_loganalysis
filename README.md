@@ -20,11 +20,13 @@ Analyzing an nginx log file using python and streamlit.
 7. If you are using a different a file, go replace it in the line #23.
 8. Adjust your column and row vaules accordingly and execute the file.
  
- **Benefits**
+**Benefits**
 1. Going through a log file in it's raw form is a long task.
 2. Using this program, user can view the data in a more oragainzed form, which is easier to go through.
 3. User can filter the specific data that is needed, this feature saves a lot of time.
 4. Displaying the log data in this interactive form also helps the people to understand things easier.
+
+**Output screenshot:**
 
    ![Alt text](/nginx_loganalysis_output.png?raw=true "Output screenshot")
 
