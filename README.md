@@ -28,7 +28,7 @@ Analyzing an nginx log file using python and streamlit.
 
 **Output screenshot:**
 
-   ![Alt text](/NGINX_loganalysis/output.png?raw=true "Output")
+   
 
 **Documentation**
 These are some websites that helped me write this program:
